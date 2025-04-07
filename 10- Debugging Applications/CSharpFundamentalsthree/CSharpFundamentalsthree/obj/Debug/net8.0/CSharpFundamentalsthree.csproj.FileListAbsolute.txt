@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\CSharpFundamentalsthree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\CSharpFundamentalsthree.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\CSharpFundamentalsthree.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\CSharpFundamentalsthree.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\bin\Debug\net8.0\CSharpFundamentalsthree.exe
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\bin\Debug\net8.0\CSharpFundamentalsthree.deps.json
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\bin\Debug\net8.0\CSharpFundamentalsthree.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\bin\Debug\net8.0\CSharpFundamentalsthree.dll
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\bin\Debug\net8.0\CSharpFundamentalsthree.pdb
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\CSharpFundamentalsthree.dll
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\refint\CSharpFundamentalsthree.dll
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\CSharpFundamentalsthree.pdb
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\CSharpFundamentalsthree.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentalsthree\CSharpFundamentalsthree\obj\Debug\net8.0\ref\CSharpFundamentalsthree.dll
